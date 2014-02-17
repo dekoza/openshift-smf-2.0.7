@@ -1,4 +1,3 @@
-openshift-smf-2.0.7
-===================
+The OpenShift `php` cartridge documentation can be found at:
 
-Simple Machines Forum 2.0.7 for OpenShift!
+https://github.com/openshift/origin-server/tree/master/cartridges/openshift-origin-cartridge-php/README.md
